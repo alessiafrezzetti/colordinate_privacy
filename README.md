@@ -9,6 +9,9 @@ This app does not collect or store personal information. Colordinates generates 
 
 We do not collect information such as IP addresses, app usage statistics, or device identifiers.
 
+This app requests permission to access your Photos Library solely to save your digital generated postcard. This permission is only used for saving images and is not used to access, collect, or upload any other data.
+
+
 
 **Cookies**
 
@@ -33,3 +36,5 @@ This Privacy Policy is effective as of July 22, 2025 and will remain in effect u
 **Contact Information**
 
 For any questions or concerns, feel free to contact us at frezzettialessia@gmail.com.
+
+
